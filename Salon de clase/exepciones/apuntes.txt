@@ -1,0 +1,45 @@
+    Queve               Stack 
+(cola/fila)            (Pila)
+F-irst                  F-irst
+I-n                     I-n
+F-irst                  L-ast
+O-ut                    O-ut
+Primero que entra       Primero que entra 
+primero que sale        ultimo que sale 
+
+            Enfoques 
+
+L-ook                       E-asier
+B-efore                     A-sh
+Y-ou                        F-orgivness than
+L-eap                       P-ermission
+
+Todos los programas que se realizen se deben de protejer con exepciones 
+ejemplo: si el usuario te da valores str y necesito enteros el programa truena
+
+
+        (Listas)                       (Deques)
+
+cola    Agrega con .append()     Agrega con .append()
+        Retira con .pop(0)       Retira con .popleft()
+
+pila    Agrega con .append()     Agrega con .append()
+        Retira con pop()         Retira con pop()
+
+    (IMPORTANTE IDENTIFICAR LO QUE NECESITO PRIMERO QUE NADA SI UNA COLA O UNA PILA)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
